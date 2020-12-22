@@ -1,12 +1,12 @@
 # node-parser
 Parser on node.js and puppeteer
 
-##Project install
+## Project install
 ```
 npm install
 ```
 
-##Start script
+## Start script
 ```
 npm run start
 ```
